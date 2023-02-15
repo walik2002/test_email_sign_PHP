@@ -1,0 +1,28 @@
+form{
+    width: 550px;
+    margin: auto;
+    padding: 20px 40px;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+
+
+label{
+    display: block;
+    font-size: 20px;
+}
+input,textarea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    padding-left: 20px;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+button{
+    padding: 20px;
+    color: white;
+    background-color: darkseagreen;
+    border-radius: 10px;
+}
